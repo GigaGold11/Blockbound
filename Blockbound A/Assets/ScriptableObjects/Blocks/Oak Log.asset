@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7218abbff671e46478f2d6bbb6562a0e, type: 3}
+  m_Name: Oak Log
+  m_EditorClassIdentifier: Assembly-CSharp::Blockbound.Blocks.BlockDefinition
+  Id: 6
+  BlockName: Oak Log
+  Hardness: 2
+  IsSolid: 1
+  IsOpaque: 1
+  IsReplaceable: 0
+  EmitsLight: 0
+  LightLevel: 0
+  RenderType: 0
+  TopTexture: {fileID: 2800000, guid: 06b3a3d69b7743e4eaa3e9288092ce85, type: 3}
+  BottomTexture: {fileID: 2800000, guid: 06b3a3d69b7743e4eaa3e9288092ce85, type: 3}
+  SideTexture: {fileID: 2800000, guid: d27a95088173b7743bfa98a0ef2bd2e4, type: 3}
+  TopTextureIndex: 6
+  BottomTextureIndex: 6
+  SideTextureIndex: 7
+  IsAir: 0
